@@ -1,0 +1,20 @@
+h1 
+{
+color: red;
+font-weight: bolder;
+
+}
+
+p 
+{
+color: orange;
+font-weight: bolder;
+font-size: 36px;
+}
+
+.li-with-icon 
+{
+color: green;
+font-size: 18px;
+
+}
